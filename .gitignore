@@ -1,9 +1,0 @@
-.env
-.DS_Store
-Thumbs.db
-_notes/
-**/_notes/
-*.bak
-
-storage/*
-!storage/.gitkeep
